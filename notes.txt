@@ -1,0 +1,3 @@
+Tiktik image is placed in the utils folder
+Same with the categories if i feel like changing them
+click the import topics to change the topics in the Discover.tsx file
