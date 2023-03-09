@@ -12,6 +12,7 @@ const SDP = () => {
         
       </div>
       <div className="flex justify-center"><p>Thats why we made it a large body of text, because we know that 91% of adults won't actually read this 👍 <br></br> and 97% of kids wont read this either. So we could quite literally say "WE ARE STEALING YOUR DATA" in the middle of the text with a large font and bolded and almost nobody would notice 👍</p></div>
+      <a href="https://www.businessinsider.com/deloitte-study-91-percent-agree-terms-of-service-without-reading-2017-11" className='text-blue-800 hover:underline flex justify-center'>Link to study</a>
       <br></br>
       <br></br>
       
